@@ -1,0 +1,8 @@
+[package]
+name = "multivec"
+version = "0.1.0"
+authors = ["Mike Lubinets <lubinetsm@yandex.ru>"]
+
+[dependencies]
+multivec-macro = { path = "../multivec-macro" }
+
